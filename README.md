@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🚗 Driver Behavior Detection using YOLOv8</h1>
+<h1>Driver Behavior Detection using YOLOv8</h1>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white"/>
@@ -30,7 +30,7 @@
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 This project uses a **custom-trained YOLOv8 object detection model** to classify and detect different driver behaviors from images, videos, or live webcam input.
 
@@ -38,7 +38,7 @@ The goal is to improve **road safety** by identifying distracted driving pattern
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🔍 **Real-time detection** — Live webcam-based driver behavior recognition
 - 🎥 **Multi-source support** — Works with webcam feed, image files, and video files
@@ -49,7 +49,7 @@ The goal is to improve **road safety** by identifying distracted driving pattern
 
 ---
 
-## 🏷️ Classes Detected
+##  Classes Detected
 
 | Class ID | Behavior             |
 |:--------:|----------------------|
@@ -64,7 +64,7 @@ The goal is to improve **road safety** by identifying distracted driving pattern
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -76,7 +76,7 @@ The goal is to improve **road safety** by identifying distracted driving pattern
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 driver_behavior_yolov8/
@@ -104,7 +104,7 @@ driver_behavior_yolov8/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 
@@ -164,7 +164,7 @@ python detect.py --source 0
 
 ---
 
-## 📊 Results
+##  Results
 
 - ✅ Real-time detection with bounding boxes and class labels
 - ⚡ High-speed inference using GPU acceleration
@@ -173,7 +173,7 @@ python detect.py --source 0
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
 
