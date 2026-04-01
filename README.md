@@ -166,10 +166,10 @@ python detect.py --source 0
 
 ##  Results
 
-- ✅ Real-time detection with bounding boxes and class labels
-- ⚡ High-speed inference using GPU acceleration
-- 🎯 Accurate classification across 8 driver behavior categories
-- 📈 Training metrics (loss, mAP) saved under `runs/`
+-  Real-time detection with bounding boxes and class labels
+-  High-speed inference using GPU acceleration
+-  Accurate classification across 8 driver behavior categories
+-  Training metrics (loss, mAP) saved under `runs/`
 
 ---
 
